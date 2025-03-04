@@ -83,10 +83,11 @@
 <br>
 
 <li>
-<a href="mailto:zalovichflor@gmail.com" target="_blank">
+<a href="mailto:zalovichflor@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Florencia%20Zalovich-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 </li>
+
 
 	
 </ul>
