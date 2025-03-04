@@ -5,7 +5,6 @@
 - 🎓 **Bachelor’s in Systems student** at ORT University  
 - 👨‍🏫 **Programming instructor** at We Code, teaching kids programming  
 - 💻 Passionate about web development and problem-solving  
-- 📄 [My CV](YOUR_GITHUB_CV_LINK)  
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -83,9 +82,7 @@
 <br>
 
 <li>
-<a href="mailto:zalovichflor@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Florencia%20Zalovich-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-</a>
+<img src="https://img.shields.io/badge/Gmail-zalovichflor@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </li>
 
 
